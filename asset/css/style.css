@@ -1,0 +1,32 @@
+/*
+*	Name 		: Default Style;
+*	Create		: Giri Diwa Adam;
+*	Copyright 	: Giri Diwa Adam;
+*
+*/
+body{
+	font-family: 'Poppins',sans-serif;
+	-webkit-font-smoothing:antialiazed;
+	-moz-osx-font-smoothing:Grayscale;
+	color:#5d6778;
+	padding-top: 69px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-family:'Poppins',sans-serif;
+	color:#252930;
+	font-weight:600;
+}
+.table-bordered th,.table-bordered td{border-color:#e7e9ed}
+.site-logo .logo-text{
+	color:#252930;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+.site-logo .text-alt{
+	font-weight: 300;
+}
